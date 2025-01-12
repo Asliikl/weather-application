@@ -2,7 +2,7 @@
 
 This project is a simple weather application built using **Flask** and **JavaScript**. Users can enter a city name to view the weather data for that city. The application visualizes data such as temperature, humidity, wind speed, and precipitation probability through dynamic charts.
 
-![Dashboard Overview](static/img/weather.png)
+![Dashboard Overview](static/img/weath1.png)
 
 ## Features
 
